@@ -41,7 +41,7 @@ The banking marketing dataset (`bank-additional-full.csv`) includes client and c
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 1. **Clone the repository**
 
